@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  font-size:4rem;
+}
+h2{
+  font-size:2.5rem;
+}
+.cardMaker{
+  border:3px solid salmon;
+  margin:5rem auto;
+  width:60%;
+}
+.followerCard{
+  padding:1.5rem;
+  margin: 5rem auto;
+  width:50%;
+  border:3px solid cadetblue;
+}
+img{
+  border-radius:1.5rem;
+}
